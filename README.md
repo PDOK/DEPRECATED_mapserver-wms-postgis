@@ -1,3 +1,4 @@
+# DEPRECATED
 # Mapserver WMS Postgis
 
 ## TL;DR
